@@ -1,3 +1,1 @@
-git rm "contoso Dashboard.pbix"
-git commit -m "Remove contoso Dashboard"
-git push origin main
+
